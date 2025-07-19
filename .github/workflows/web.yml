@@ -1,7 +1,7 @@
-name: Deploy Static Site
+name: Deploy Site
 on: [push]
 permissions:
-  pages: write
+  pages: wire
   id-token: write
 jobs:
   deploy:
