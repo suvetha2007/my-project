@@ -1,4 +1,4 @@
-name: Deploy Site
+name: Deploy Static Site
 on: [push]
 permissions:
   pages: write
